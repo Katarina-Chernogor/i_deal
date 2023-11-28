@@ -20,6 +20,10 @@
   cursor: pointer;
 }
 
+.video {
+  width: 87px;
+  height: 99px;
+}
 /* .textAgency {
   position: absolute;
   width: _width px;
